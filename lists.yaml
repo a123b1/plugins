@@ -1,1 +1,3 @@
-
+- name: sp-随机浏览网页
+  package: https://github.com/a123b1/plugins/raw/feature/sp-随机浏览网页.7z
+  version: 1
