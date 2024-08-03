@@ -1,3 +1,6 @@
 - name: sp-随机浏览网页
-  package: https://github.com/a123b1/plugins/raw/feature/sp-随机浏览网页.7z
+  package: https://github.com/a123b1/plugins/raw/feature/sp-随机浏览网页.pkg
+  version: 1
+- name: sp-执行脚本
+  package: https://github.com/a123b1/plugins/raw/feature/sp-执行脚本.pkg
   version: 1
