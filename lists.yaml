@@ -1,1 +1,4 @@
+- name: sp-fetch
+  package: https://github.com/a123b1/plugins/raw/main/sp-fetch.pkg
+  version: 1
 
