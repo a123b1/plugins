@@ -4,3 +4,6 @@
 - name: sp-执行脚本
   package: https://github.com/a123b1/plugins/raw/feature/sp-执行脚本.pkg
   version: 1
+- name: sp-访问网盘
+  package: https://github.com/a123b1/plugins/raw/feature/sp-访问网盘.pkg
+  version: 1
