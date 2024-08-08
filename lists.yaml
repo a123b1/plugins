@@ -1,9 +1,9 @@
-- name: sp-随机浏览网页
-  package: https://github.com/a123b1/plugins/raw/feature/sp-随机浏览网页.pkg
+- name: sp-随浏网页
+  package: https://github.com/a123b1/plugins/raw/feature/sp-随浏网页.pkg
   version: 1
 - name: sp-执行脚本
   package: https://github.com/a123b1/plugins/raw/feature/sp-执行脚本.pkg
   version: 1
-- name: sp-访问网盘
-  package: https://github.com/a123b1/plugins/raw/feature/sp-访问网盘.pkg
+- name: sp-重启网络接口
+  package: https://github.com/a123b1/plugins/raw/feature/sp-重启网络接口.pkg
   version: 1
