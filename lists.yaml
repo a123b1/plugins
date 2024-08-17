@@ -7,3 +7,6 @@
 - name: sp-重启网络接口
   package: https://github.com/a123b1/plugins/raw/feature/sp-重启网络接口.pkg
   version: 1
+- name: sp-网盘管理
+  package: https://github.com/a123b1/plugins/raw/feature/sp-网盘管理.pkg
+  version: 1
