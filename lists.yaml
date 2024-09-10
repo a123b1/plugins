@@ -9,4 +9,4 @@
   version: 1
 - name: sp-网盘管理
   package: https://github.com/a123b1/plugins/raw/feature/sp-网盘管理.pkg
-  version: 2
+  version: 3
