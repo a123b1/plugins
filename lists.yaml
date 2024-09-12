@@ -9,7 +9,7 @@
   version: 1
 - name: sp-网盘管理
   package: https://github.com/a123b1/plugins/raw/feature/sp-网盘管理.pkg
-  version: 3
+  version: 4
 - name: sp-在线翻译
   package: https://github.com/a123b1/plugins/raw/feature/sp-在线翻译.pkg
   version: 1
