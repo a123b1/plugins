@@ -1,6 +1,6 @@
 - name: sp-随浏网页
   package: https://github.com/a123b1/plugins/raw/feature/sp-随浏网页.pkg
-  version: 2
+  version: 3
 - name: sp-执行脚本
   package: https://github.com/a123b1/plugins/raw/feature/sp-执行脚本.pkg
   version: 1
