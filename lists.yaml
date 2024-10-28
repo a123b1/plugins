@@ -15,4 +15,4 @@
   version: 1
 - name: sp-收发签到
   package: https://github.com/a123b1/plugins/raw/feature/sp-收发签到.pkg
-  version: 1
+  version: 2
