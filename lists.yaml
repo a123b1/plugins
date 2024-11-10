@@ -16,3 +16,6 @@
 - name: sp-收发签到
   package: https://github.com/a123b1/plugins/raw/feature/sp-收发签到.pkg
   version: 2
+- name: tp-directfox
+  package: https://github.com/a123b1/plugins/raw/feature/tp-directfox.pkg
+  version: 1
