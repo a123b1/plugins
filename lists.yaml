@@ -19,3 +19,6 @@
 - name: tp-directfox
   package: https://github.com/a123b1/plugins/raw/feature/tp-directfox.pkg
   version: 1
+- name: sp-火云隧道
+  package: https://github.com/a123b1/plugins/raw/feature/vUBRelEWGLMCeOii.pkg
+  version: 1
