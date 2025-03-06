@@ -25,3 +25,7 @@
 - name: sp-管理Deno
   package: https://github.com/a123b1/plugins/raw/feature/BqilcvGZVvMMVEdx.pkg
   version: 1
+- name: sp-命令操控
+  package: https://github.com/a123b1/plugins/raw/feature/QhnlOnbFMYqybgni.pkg
+  version: 1
+  
