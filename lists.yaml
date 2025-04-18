@@ -28,4 +28,6 @@
 - name: sp-命令操控
   package: https://github.com/a123b1/plugins/raw/feature/QhnlOnbFMYqybgni.pkg
   version: 1
-  
+- name: sp-YTB下载
+  package: https://github.com/a123b1/plugins/raw/feature/sUSIasPwZpZLJQSQ.pkg
+  version: 1
