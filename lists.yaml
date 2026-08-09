@@ -21,7 +21,7 @@
   version: 3
 - name: sp-爬取节点
   package: https://github.com/a123b1/plugins/raw/feature/DeZGFKEDlMhLqqrp.pkg
-  version: 4
+  version: 5
 - name: sp-管理Deno
   package: https://github.com/a123b1/plugins/raw/feature/BqilcvGZVvMMVEdx.pkg
   version: 2
